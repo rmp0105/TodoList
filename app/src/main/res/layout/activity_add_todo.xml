@@ -61,7 +61,7 @@
             android:layout_height="wrap_content"
             android:text="@string/importance_middle"/>
         <RadioButton
-            android:id="@+id/brn_high"
+            android:id="@+id/btn_high"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/importance_high"/>
